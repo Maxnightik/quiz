@@ -109,6 +109,10 @@ fieldset {
   margin: 0 auto;
 }
 
+.header__logo {
+  padding-right: 10px;
+}
+
 .header__title {
   font-weight: 900;
   font-size: 30px;
